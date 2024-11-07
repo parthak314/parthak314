@@ -2,9 +2,8 @@
 Welcome to my GitHub profile! I'm a passionate developer with a strong foundation in Python, C++, SQL, and various other technologies. I enjoy tackling challenging problems, building efficient solutions, and continually learning new skills to stay at the forefront of software development.
 
 ### 🛠️ Skills & Technologies
-**Languages:** Python, C++, SQL, JavaScript (React.js), Bash </br>
+**Languages:** Python, C++, SQL, JavaScript (React.js), Bash, SystemVerilog </br>
 **Web Development:** HTML, CSS, Flask, Node.js </br>
-**Databases:** MySQL, PostgreSQL, SQLite</br>
 **Tools & Other Skills:** Git, Docker, Jupyter Notebooks, APIs, Data Analysis, Linux/Unix Scripting, Wireshark</br>
 I’m committed to developing clean, maintainable, and scalable code and to contributing to the open-source community whenever possible.
 
