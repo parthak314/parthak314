@@ -2,10 +2,10 @@
 Welcome to my GitHub profile! I'm a passionate developer with a strong foundation in Python, C++, SQL, and various other technologies. I enjoy tackling challenging problems, building efficient solutions, and continually learning new skills to stay at the forefront of software development.
 
 ### 🛠️ Skills & Technologies
-**Languages:** Python, C++, SQL, JavaScript (React.js), Bash
-**Web Development:** HTML, CSS, Flask, Node.js
-**Databases:** MySQL, PostgreSQL, SQLite
-**Tools & Other Skills:** Git, Docker, Jupyter Notebooks, APIs, Data Analysis, Linux/Unix Scripting, Wireshark
+**Languages:** Python, C++, SQL, JavaScript (React.js), Bash </br>
+**Web Development:** HTML, CSS, Flask, Node.js </br>
+**Databases:** MySQL, PostgreSQL, SQLite</br>
+**Tools & Other Skills:** Git, Docker, Jupyter Notebooks, APIs, Data Analysis, Linux/Unix Scripting, Wireshark</br>
 I’m committed to developing clean, maintainable, and scalable code and to contributing to the open-source community whenever possible.
 
 ### 📈 Projects
@@ -23,8 +23,8 @@ My GitHub projects showcase a blend of practical applications, experimental buil
 Once these projects reach significant milestones, I’ll share them here!
 
 ### 👥 Connect with Me
-GitHub: github.com/parthak314
-Email: parthakfree@gmail.com
+GitHub: github.com/parthak314</br>
+Email: parthakfree@gmail.com</br>
 I'm always open to collaborations, discussions on technology, and new opportunities. Let’s connect if you're interested in working together or if you'd like to know more about any of my projects!
 
 💡 Personal Note
