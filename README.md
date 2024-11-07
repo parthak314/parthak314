@@ -9,7 +9,7 @@ My GitHub projects showcase a blend of practical applications, experimental buil
 - Implementing an SIEM system using the ELK stack (ElasticSearch, Logstash, Kibana)
 
 #### With future projects around:
-- Experimenting with machine learning algorithms and data science tools to deepen my understanding of data-driven problem-solving.
+- Experimenting with machine learning algorithms and data science tools for data-driven problem-solving.
 - Building tools for personal use that automate everyday tasks and optimize workflows.
 
 Once these projects reach significant milestones, I’ll share them here!
