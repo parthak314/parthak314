@@ -15,7 +15,7 @@ My GitHub projects showcase a blend of practical applications, experimental buil
 Once these projects reach significant milestones, I’ll share them here!
 
 ### 👥 Connect with Me
-GitHub: github.com/parthak314     |       Email: parthakfree@gmail.com</br>
+GitHub: You're here!   |     Use the contact form on my website: [parthak314.github.io](parthak314.github.io) </br>
 I'm always open to collaborations, discussions on technology, and new opportunities. Let’s connect if you're interested in working together or if you'd like to know more about any of my projects!
 
 **💡 Personal Note:** 
