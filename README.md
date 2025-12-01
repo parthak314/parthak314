@@ -12,6 +12,6 @@ Once these projects reach significant milestones, I’ll share them here!
 
 ### 👥 Connect with Me
 GitHub: You're here! - Feel free to submit a pull request. <br>
-Use the contact form on my website: [parthak314.github.io](parthak314.github.io) <br>
+Use the contact form on my website: [parthak314.github.io](https://parthak314.github.io) <br>
 I'm always open to collaborations, discussions on technology, and new opportunities. Let’s connect if you're interested in working together or if you'd like to know more about any of my projects!
 
