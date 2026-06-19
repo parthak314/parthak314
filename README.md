@@ -5,11 +5,6 @@ My GitHub projects showcase a blend of practical applications, experimental buil
 >[!NOTE]
 >Certain projects are under active development (currently below version v1.0.0) and have been privatised until they are ready for public release.
 
-## Currently, I'm focused on:
-- Developing new full-stack applications that integrate Node.js, Express.js, React.js, Firebase and AES-256 encryption and OAuth2.0 (social logins) for performance and scalability.
-- Implementing an SIEM system using the ELK stack (ElasticSearch, Logstash, Kibana)
-Once these projects reach significant milestones, I’ll share them here!
-
 ### 👥 Connect with Me
 GitHub: You're here! - Feel free to submit a pull request. <br>
 Use the contact form on my website: [parthak314.github.io](https://parthak314.github.io) <br>
